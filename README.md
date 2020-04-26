@@ -1,0 +1,1 @@
+Determines whether two objects have an intersection.
